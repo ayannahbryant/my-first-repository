@@ -1,6 +1,10 @@
 #Learning Git
 
-I love working with git!
+I love working with git
+
+Adding more information to the README.md file. 
+
+This will be the final input before starting the Launch School curriculum.
 
 Important steps for git workflow
 
