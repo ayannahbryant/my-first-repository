@@ -1,6 +1,6 @@
 #Learning Git
 
-I love working with git
+I love working with git. Making changes to confirm.
 
 Adding more information to the README.md file. 
 
